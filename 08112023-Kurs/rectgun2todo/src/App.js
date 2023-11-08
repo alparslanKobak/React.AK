@@ -6,7 +6,18 @@ function App() {
   return (
     <div className="App">
 
-      <Todos />
+      <div className='container'>
+        <div className='row'>
+          <div className='offset-4'>
+
+          </div>
+          <div className='col-6'>
+            <Todos />
+          </div>
+        </div>
+
+      </div>
+
     </div>
   );
 }
