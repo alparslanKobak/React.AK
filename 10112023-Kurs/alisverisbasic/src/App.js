@@ -59,7 +59,7 @@ function App() {
 
   function ListeUrunu(urun) {
     return (
-      <div className='col-3 m-4 p-4 border border-black shadow' >
+      <div className='col-3 m-4 p-4 border border-black shadow rounded-4' >
         <div className='justify-content-center'>
           <img src={urun.urunResim} className='card-img-top' alt='Ürün Resmi' />
 
@@ -123,15 +123,25 @@ function App() {
   }
 
   function SatinAlisiTamamla() {
-    prompt('Kredi Kartı Numaranızı Giriniz : ')
-    prompt('Kredi Kartı Son Kullanma Tarihi : ')
-    prompt('Kredi Kartı Güvenlik Kodu : ')
-    prompt('Kredi Kartı Sahibinin Adı Soyadı : ')
 
-    alert('Ödeme İşleminiz Başarıyla Gerçekleştirilmiştir. Teşekkür Ederiz.')
-    setSepetUrunleri([]);
+   
 
-    
+    if (sepetUrunleri.length === 0) {
+      alert('Sepetinizde Ürün Bulunmamaktadır. İyi Alışverişler Dileriz. ;)');
+      return;
+    }
+    else {
+      prompt('Kredi Kartı Numaranızı Giriniz : ')
+      prompt('Kredi Kartı Son Kullanma Tarihi : ')
+      prompt('Kredi Kartı Güvenlik Kodu : ')
+      prompt('Kredi Kartı Sahibinin Adı Soyadı : ')
+
+      alert('Ödeme İşleminiz Başarıyla Gerçekleştirilmiştir. Teşekkür Ederiz.')
+      setSepetUrunleri([]);
+    }
+
+
+
   }
 
   function SepetUrunuListele() {
