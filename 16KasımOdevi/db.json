@@ -1,0 +1,249 @@
+{
+  "kategoriler": [
+    {
+      "id": 1,
+      "ad": "Sebze"
+    },
+    {
+      "id": 2,
+      "ad": "Meyve"
+    },
+    {
+      "id": 3,
+      "ad": "Şarküteri"
+    },
+    {
+      "id": 4,
+      "ad": "İçecek"
+    },
+    {
+      "id": 5,
+      "ad": "Temel Gıda"
+    },
+    {
+      "id": 6,
+      "ad": "Kişisel Hijyen"
+    },
+    {
+      "id": 7,
+      "ad": "Ev Temizlik"
+    }
+  ],
+  "bloglar": [
+    {
+      "id": 1,
+      "kategoriId": 1,
+      "baslik": "Domates",
+      "aciklama": "Domatesin yerlisi ve millisi burada. Tarladan direkt sofranıza ulaşan ata tohumu domateslerimizi köylümüzden bizzat alıyor ve sofranıza koyuyoruz. Domatesin en lezzetlisini bizde bulabilirsiniz. Eminiz ki bir daha başka yerden domates almayacaksınız.",
+      "resim": "https://picsum.photos/800/600",
+      "favoriSayisi": 15,
+      "banner": "1",
+        "date": "2023-01-01",
+      "tag": [
+        "Sebze",
+        "Organik",
+        "Tarla"
+      ]
+    },
+    {
+      "id": 2,
+      "kategoriId": 2,
+      "baslik": "Muz",
+      "aciklama": "Çikita Muz. Muzun en lezzetlisini bizde bulabilirsiniz. Eminiz ki bir daha başka yerden muz almayacaksınız. Menşei Güney Amerika. Bununla birlikte oldukça uygun fiyatlıdır. Sofranızda eksik etmeyin.",  
+      "resim": "https://picsum.photos/810/600",
+      "favoriSayisi": 10,
+      "banner": 1,
+      "date": "2023-01-01",
+      "tag": [
+        "Egzantrik",
+        "Meyve",
+        "Tropikal"
+      ]
+    },
+    {
+      "id": 3,
+      "kategoriId": 3,
+      "baslik": "Sucuk",
+      "aciklama": "Sucuk. Sucuğun en lezzetlisini bizde bulabilirsiniz. Eminiz ki bir daha başka yerden sucuk almayacaksınız. Menşei Kastamonu. Bununla birlikte oldukça uygun fiyatlıdır. Sofranızda eksik etmeyin. Kastamonu sucuğunun en belirgin özelliklerinden biri de baharatının az olmasıdır. Bu sayede sucuk yemek isteyenler için idealdir. Ayrıca sucuk, protein ve yağ açısından da oldukça zengindir. Bu sayede sucuk, özellikle kahvaltı sofralarının vazgeçilmezlerinden biri olmuştur.",
+      "resim": "https://picsum.photos/801/600",
+      "favoriSayisi": 20,
+      "banner": 0,
+      "date": "2023-05-11",
+      "tag": [
+        "Kahvaltı",
+        "Şarküteri",
+        "Kastamonu"
+      ]
+    },
+    {
+      "id": 4,
+      "kategoriId": 4,
+      "baslik": "Ayran",
+      "aciklama": "Ayran. Ayranın en lezzetlisini bizde bulabilirsiniz. Eminiz ki bir daha başka yerden ayran almayacaksınız. Menşei Konya. Bununla birlikte oldukça uygun fiyatlıdır. Sofranızda eksik etmeyin. Ayran, Türk mutfağının vazgeçilmez içeceklerinden biridir. Özellikle yaz aylarında serinlemek için tercih edilen ayran, aynı zamanda yemeklerin yanında da tüketilir. Ayranın en önemli özelliklerinden biri de sindirime yardımcı olmasıdır. Bu sayede yemeklerden sonra içilen ayran, sindirimi kolaylaştırır. Ayrıca ayran, protein ve kalsiyum açısından da oldukça zengindir. Bu sayede ayran, özellikle çocukların gelişiminde önemli bir rol oynar.",
+      "resim": "https://picsum.photos/802/600",
+      "favoriSayisi": 18,
+      "banner": 0,
+        "date": "2023-06-28",
+      "tag": [
+        "süt",
+        "yoğurt",
+        "sağlıklı yaşam"
+      ]
+    },
+    {
+      "id": 5,
+      "kategoriId": 5,
+      "baslik": "Burgu Makarna",
+      "aciklama": "Tamamen yerli üretimimiz olan bizim ürünümüz burgu makarna. İtalyanlar kıskanacak... ",
+      "resim": "https://picsum.photos/803/600",
+      "favoriSayisi": 22,
+      "banner": 1,
+        "date": "2023-07-15",
+      "tag": [
+        "temel gıda",
+        "makarna",
+        "Mutfak"
+      ]
+    },
+    {
+      "id": 6,
+      "kategoriId": 6,
+      "baslik": "Duş Jeli",
+      "aciklama": "Kirlerinizden arınacak, gözeneklerinizi açacak ve cildinizi nemlendirecek duş jelimiz. ",
+      "resim": "https://picsum.photos/800/601",
+      "favoriSayisi": 17,
+      "banner": 0,
+        "date": "2023-08-01",
+      "tag": [
+        "Duş",
+        "Rahatlık",
+        "Temizlik"
+      ]
+    },
+    {
+      "id": 7,
+      "kategoriId": 6,
+      "baslik": "Çamaşır Suyu",
+      "aciklama": "Ferah Bir Çamaşır suyu deneyimi için bizim ürünümüzü deneyin. Bakterilerden arınacak ve temizliğiniz ile gurur duyacaksınız. ", 
+      "resim": "https://picsum.photos/800/602",
+      "favoriSayisi": 30,
+      "banner": 0,
+        "date": "2023-09-01",
+      "tag": [
+        "Dekontaminasyon",
+        "Sterilizasyon",
+        "Temizlik"
+      ]
+    },
+    {
+      "id": 8,
+      "kategoriId": 7,
+      "baslik": "Mikrofiber Temizlik Bezi",
+      "aciklama": "Çevre dostu mikrofiber temizlik bezimiz, tozu ve kirleri daha hızlı ve etkili bir şekilde temizler. Yüzeyleri çizmeden temizleyen bu bezler, kullanımı kolay ve uzun ömürlüdür. Hem evde hem de iş yerinde kullanım için idealdir.",
+      "resim": "https://picsum.photos/804/600",
+      "favoriSayisi": 25,
+      "banner": 1,
+      "date": "2023-10-10",
+      "tag": [
+        "Temizlik",
+        "Eco-Friendly",
+        "Mikrofiber"
+      ]
+    },
+    {
+      "id": 9,
+      "kategoriId": 7,
+      "baslik": "Bulaşık Süngeri",
+      "aciklama": "Bulaşık süngeri, bulaşıkları yıkamak için kullanılan bir temizlik malzemesidir. Bulaşık süngeri, bulaşıkları yıkamak için kullanılan bir temizlik malzemesidir. Bulaşık süngeri, bulaşıkları yıkamak için kullanılan bir temizlik malzemesidir. Bulaşık süngeri, bulaşıkları yıkamak için kullanılan bir temizlik malzemesidir. Bulaşık süngeri, bulaşıkları yıkamak için kullanılan bir temizlik malzemesidir. Bulaşık süngeri, bulaşıkları yıkamak için kullanılan bir temizlik malzemesidir. Bulaşık süngeri, bulaşıkları yıkamak için kullanılan bir temizlik malzemesidir. Bulaşık süngeri, bulaşıkları yıkamak için kullanılan bir temizlik malzemesidir. ",
+      "resim": "https://picsum.photos/805/600",
+      "favoriSayisi": 35,
+      "banner": 0,
+      "date": "2023-11-01",
+      "tag": [
+        "Temizlik",
+        "Bulaşık",
+        "Sünger"
+      ]
+    },
+    {
+      "id": 8,
+      "kategoriId": 1,
+      "baslik": "Organik Patates",
+      "aciklama": "Tamamen doğal koşullarda yetiştirilen organik patateslerimiz, lezzet ve sağlık dolu. Kızartma, haşlama, püre her türlü yemeğinizde kullanabileceğiniz mükemmel bir seçenek.",
+      "resim": "https://picsum.photos/805/600",
+      "favoriSayisi": 12,
+      "banner": 0,
+      "date": "2023-11-05",
+      "tag": [
+        "Sebze",
+        "Organik",
+        "Sağlıklı"
+      ]
+    },
+    {
+      "id": 9,
+      "kategoriId": 2,
+      "baslik": "Elma",
+      "aciklama": "Yerli bahçelerimizden toplanan taze ve sulu elmalar, doğal tatlarıyla sofranızın yıldızı olacak. Hem taze hem de pişmiş olarak tüketebilirsiniz.",
+      "resim": "https://picsum.photos/806/600",
+      "favoriSayisi": 18,
+      "banner": 1,
+      "date": "2023-12-01",
+      "tag": [
+        "Meyve",
+        "Taze",
+        "Doğal"
+      ]
+    },
+    {
+      "id": 11,
+      "kategoriId": 4,
+      "baslik": "Soğuk Kahve",
+      "aciklama": "Yaz aylarının vazgeçilmezi, ferahlatıcı soğuk kahvemiz. Doğal kahve çekirdeklerinden elde edilen bu içecek, gün boyu enerji verir.",
+      "resim": "https://picsum.photos/808/600",
+      "favoriSayisi": 30,
+      "banner": 1,
+      "date": "2024-02-15",
+      "tag": [
+        "İçecek",
+        "Kahve",
+        "Soğuk"
+      ]
+    },
+    {
+      "id": 12,
+      "kategoriId": 5,
+      "baslik": "Zeytinyağlı Bulgur",
+      "aciklama": "Yerel çiftçilerimizin özenle yetiştirdiği buğdaydan üretilen bulgur, yemeklerinize sağlık ve lezzet katacak. Zeytinyağı ile zenginleştirilmiş, besleyici bir alternatif.",
+      "resim": "https://picsum.photos/809/600",
+      "favoriSayisi": 15,
+      "banner": 0,
+      "date": "2024-03-21",
+      "tag": [
+        "Temel Gıda",
+        "Sağlıklı",
+        "Bulgur"
+      ]
+    },
+    {
+      "id": 13,
+      "kategoriId": 6,
+      "baslik": "Lavanta Kokulu Sabun",
+      "aciklama": "Doğal lavanta özleri ile zenginleştirilmiş bu sabun, cildinizi nazikçe temizler ve ferah bir koku bırakır. Her cilt tipine uygun.",
+      "resim": "https://picsum.photos/810/600",
+      "favoriSayisi": 20,
+      "banner": 0,
+      "date": "2024-04-05",
+      "tag": [
+        "Kişisel Hijyen",
+        "Sabun",
+        "Doğal"
+      ]
+    }
+    
+    
+    
+    
+    
+  ]
+}
