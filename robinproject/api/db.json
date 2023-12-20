@@ -1,0 +1,159 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Difference Between Green Furniture and Sustainable Furniture",
+      "createdAt": "January 21, 2019",
+      "slug": "the-difference-between-green-furniture-and-sustainable-furniture",
+      "image": "https://www.mymove.com/wp-content/uploads/2020/07/shutterstock_782650543.jpg",
+      "description": "Sustainable furniture is made from materials that have a low impact on the environment. This low impact can be due to the material itself or how the material is harvested. For example, bamboo is a sustainable material because it grows quickly and does not require pesticides. However, bamboo is often shipped from Asia, which increases its carbon footprint. Green furniture is made from materials that are not harmful to people or the environment. This includes materials that are non-toxic, organic, and biodegradable. Green furniture is also made from materials that are sustainably harvested. For example, wood furniture is green when it is made from sustainably harvested wood. Sustainable furniture is green, but green furniture is not always sustainable. The best furniture is both green and sustainable. This means that it is made from materials that are not harmful to people or the environment and that are sustainably harvested. It also means that the furniture is made in a way that is not harmful to people or the environment. For example, a piece of furniture made from sustainably harvested wood that is finished with a non-toxic finish is both green and sustainable. A piece of furniture made from sustainably harvested wood that is finished with a toxic finish is sustainable but not green. A piece of furniture made from non-sustainably harvested wood that is finished with a non-toxic finish is green but not sustainable. A piece of furniture made from non-sustainably harvested wood that is finished with a toxic finish is neither green nor sustainable."
+    },
+    {
+      "id": 2,
+      "title": "How to Choose the Right Furniture for Your Home",
+      "createdAt": "January 24, 2023",
+      "slug": "how-to-choose-the-right-furniture-for-your-home",
+      "image": "https://bijaninteriors.ca/wp-content/uploads/2017/02/furniture-1024x338.jpg",
+      "description": "Sustainable furniture is made from materials that have a low impact on the environment. This low impact can be due to the material itself or how the material is harvested. For example, bamboo is a sustainable material because it grows quickly and does not require pesticides. However, bamboo is often shipped from Asia, which increases its carbon footprint. Green furniture is made from materials that are not harmful to people or the environment. This includes materials that are non-toxic, organic, and biodegradable. Green furniture is also made from materials that are sustainably harvested. For example, wood furniture is green when it is made from sustainably harvested wood. Sustainable furniture is green, but green furniture is not always sustainable. The best furniture is both green and sustainable. This means that it is made from materials that are not harmful to people or the environment and that are sustainably harvested. It also means that the furniture is made in a way that is not harmful to people or the environment. For example, a piece of furniture made from sustainably harvested wood that is finished with a non-toxic finish is both green and sustainable. A piece of furniture made from sustainably harvested wood that is finished with a toxic finish is sustainable but not green. A piece of furniture made from non-sustainably harvested wood that is finished with a non-toxic finish is green but not sustainable. A piece of furniture made from non-sustainably harvested wood that is finished with a toxic finish is neither green nor sustainable."
+    }
+  ],
+  "contacts": [
+    {
+      "customerName": "Alparslan",
+      "customerEmail": "alparslankobak@gmail.com",
+      "contactSubject": "Acildeneme",
+      "contactMessage": "deneme123",
+      "id": 1
+    },
+    {
+      "customerName": "Alparslan",
+      "customerEmail": "alparslankobak@gmail.com",
+      "contactSubject": "Acildeneme",
+      "contactMessage": "deneme 2",
+      "id": 2
+    },
+    {
+      "customerName": "Alparslan123",
+      "customerEmail": "alparslankobak@gmail.com",
+      "contactSubject": "DENEM",
+      "contactMessage": "1234",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Osmanlı Emaneti",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJKH1wzVBXDWS6s8GWNXvprCRnxn3B23aTyz0f2jLGgA8PTto5gt0P0wzNodygaXiFjDk&usqp=CAU",
+      "description": "Very beautiful product. But literally beautiful. Awesome and taken by Arap Faik.",
+      "price": 5000,
+      "slug": "osmanli-emaneti"
+    },
+    {
+      "id": 2,
+      "title": "Osmanlı Emaneti 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJKH1wzVBXDWS6s8GWNXvprCRnxn3B23aTyz0f2jLGgA8PTto5gt0P0wzNodygaXiFjDk&usqp=CAU",
+      "description": "Very beautiful product. But literally beautiful. Awesome and taken by Arap Faik.",
+      "price": 1000,
+      "slug": "osmanli-emaneti"
+    },
+    {
+      "id": 3,
+      "title": "Osmanlı Emaneti 3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJKH1wzVBXDWS6s8GWNXvprCRnxn3B23aTyz0f2jLGgA8PTto5gt0P0wzNodygaXiFjDk&usqp=CAU",
+      "description": "Very beautiful product. But literally beautiful. Awesome and taken by Arap Faik.",
+      "price": 4000,
+      "slug": "osmanli-emaneti"
+    }
+  ],
+  "blogcomments": [
+    {
+      "id": 1,
+      "blogId": 1,
+      "name": "John Doe",
+      "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
+      "createdAt": "January 21, 2019",
+      "comment": "This is a comment"
+    },
+    {
+      "id": 2,
+      "blogId": 1,
+      "name": "John Doe",
+      "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
+      "createdAt": "January 21, 2019",
+      "comment": "This is a comment"
+    },
+    {
+      "id": 3,
+      "blogId": 2,
+      "name": "Sue Doe",
+      "image": "https://media.meer.com/attachments/fab1026dcd503986811212d6bf4f44b28551991c/store/fill/860/645/95695d4e4c4394fb92cc829a02c7b4ed57dae7e1d0e9a5c2cf9600084c5e/A-bright-woman.jpg",
+      "createdAt": "January 21, 2023",
+      "comment": "We married with John Doe"
+    },
+    {
+      "id": 4,
+      "blogId": 2,
+      "name": "Sue Doe",
+      "image": "https://media.meer.com/attachments/fab1026dcd503986811212d6bf4f44b28551991c/store/fill/860/645/95695d4e4c4394fb92cc829a02c7b4ed57dae7e1d0e9a5c2cf9600084c5e/A-bright-woman.jpg",
+      "createdAt": "January 21, 2023",
+      "comment": "We married with John Doe"
+    },
+    {
+      "name": "Alparslan Kobak",
+      "email": "alparslankobak@gmail.com",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJIa40Vhg7hlxPvrlGOHzETQ1b465Enu0YmtdbwgSYcMbQ=s260-c-no",
+      "comment": "Burası ne kadar güzel tasarlanmış",
+      "createdAt": "21 December 2023",
+      "blogId": 1,
+      "id": 5
+    },
+    {
+      "name": "Alparslan Kobak",
+      "email": "alparslankobak@gmail.com",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJIa40Vhg7hlxPvrlGOHzETQ1b465Enu0YmtdbwgSYcMbQ=s260-c-no",
+      "comment": "Kutlarım ...",
+      "createdAt": "21 December 2023",
+      "blogId": 2,
+      "id": 6
+    },
+    {
+      "name": "Kodusta",
+      "email": "kodusta@gmail.com",
+      "image": "https://avatars.githubusercontent.com/u/65721099?v=4",
+      "comment": "Bence bu yapı 90 hakediyor",
+      "createdAt": "21 December 2023",
+      "blogId": 1,
+      "id": 7
+    },
+    {
+      "name": "Kodusta",
+      "email": "kodusta@gmail.com",
+      "image": "https://avatars.githubusercontent.com/u/65721099?v=4",
+      "comment": "asd",
+      "createdAt": "21 December 2023",
+      "blogId": 1,
+      "id": 8
+    },
+    {
+      "name": "Batuhan Çelik",
+      "email": "bthcelik@gmail.com",
+      "image": "https://media.licdn.com/dms/image/C4D03AQHKHZbJiqzsQw/profile-displayphoto-shrink_100_100/0/1630513273018?e=1708560000&v=beta&t=S3JO1yWVShCjqesOiha31WBspAJ1A0Agk3__7peF65I",
+      "comment": "Bence de mükememel bir tasarım",
+      "createdAt": "21 December 2023",
+      "blogId": 2,
+      "id": 9
+    },
+    {
+      "name": "Mehmet Çet",
+      "email": "cet@gmail.com",
+      "image": "https://media.licdn.com/dms/image/C4E03AQH8UNRpastDFQ/profile-displayphoto-shrink_100_100/0/1649251241212?e=1708560000&v=beta&t=4a2-kr4A3jIGq_rxCLVJtjvNbifIKgg4faxRHSqaVJI",
+      "comment": "Daha iyi olabilirdi",
+      "createdAt": "19 December 2023",
+      "blogId": 2,
+      "id": 10
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
